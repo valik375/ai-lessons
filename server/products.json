@@ -1,0 +1,8 @@
+[
+  {"id":"lamp","name":"Лампа Halo","category":"Техника","description":"Тёплый свет для больших идей.","price":4200,"stock":5,"art":"lamp","color":"peach"},
+  {"id":"notebook","name":"Блокнот Grid","category":"Канцелярия","description":"Место для мыслей и первых набросков.","price":800,"stock":10,"art":"notebook","color":"lavender"},
+  {"id":"headphones","name":"Наушники Flow","category":"Техника","description":"Включите свой режим концентрации.","price":6500,"stock":3,"art":"headphones","color":"mint"},
+  {"id":"mug","name":"Кружка Pause","category":"Аксессуары","description":"Маленькая пауза между большими делами.","price":1200,"stock":8,"art":"mug","color":"yellow"},
+  {"id":"organizer","name":"Органайзер Form","category":"Аксессуары","description":"У каждой мелочи своё место.","price":1800,"stock":0,"art":"organizer","color":"blue"},
+  {"id":"pens","name":"Ручки Line","category":"Канцелярия","description":"Три цвета, тысяча новых идей.","price":500,"stock":12,"art":"pens","color":"pink"}
+]
